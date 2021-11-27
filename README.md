@@ -14,7 +14,7 @@ class Stephen(Person):
     self.work = [
       UturnData(role=["VP ProServ", "DevOps & Modernization Practice Lead"]),
       MetaMeta(role=["Founder & CEO"]),
-      DigitalForHer(role["Managing Partner, Technology"])]
+      DigitalForHer(role=["Managing Partner, Technology"])]
     self.oss = Sanic(role=["Steering Council","Core Developer","Release Manager"])
     self.home = [UnitedStates("Chicago"), UnitedStates("Dallas")]
     self.hobbies = ["Cooking","Coffee","Reading","Dining","Travel"]
