@@ -19,7 +19,7 @@ class Stephen(Person):
     self.home = [UnitedStates("Chicago"), UnitedStates("Dallas")]
     self.hobbies = ["Cooking","Coffee","Reading","Dining","Travel"]
    
-  async def run(self, inputs: Coffee) -> Any(Technology, None):
+  async def run(self, inputs: Coffee) -> None:
     while True:
       await self.work.do(inputs)
       await self.oss.do(inputs)
