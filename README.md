@@ -4,7 +4,7 @@
 | Writing                      | Development                 |
 |------------------------------|-----------------------------|
 |- Managing Technical Debt     |- Personal site redevelopment|
-|- Breaking Down Microservices |- Courseware site            |
+|- Breaking Down Microservices |- Web contactware            |
 
 ```py
 #shamelessly stolen from Adam Hopkins (@ahopkins)
@@ -18,10 +18,12 @@ class Stephen(Person):
     self.oss = Sanic(role=["Steering Council","Core Developer","Release Manager"])
     self.home = [UnitedStates("Chicago"), UnitedStates("Dallas")]
     self.hobbies = ["Cooking","Coffee","Reading","Dining","Travel"]
+    self.education = ["MBA, IT Management"]
    
   async def run(self, inputs: Coffee) -> None:
     while True:
       await self.work.do(inputs)
+      await self.education.do(inputs)
       await self.oss.do(inputs)
       await self.hobbies.do(inputs)
   
