@@ -12,7 +12,7 @@ class Stephen(Person):
 
   def __init__(self):
     self.work = [
-      UturnData(role=["VP ProServ", "DevOps & Modernization Practice Lead"]),
+      UturnData(role=["Head of Cloud Engineering", "DevOps & Modernization Practice Lead"]),
       MetaMeta(role=["Founder & CEO"]),
       DigitalForHer(role=["Managing Partner, Technology"])]
     self.oss = Sanic(role=["Steering Council","Core Developer","Release Manager"])
