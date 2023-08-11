@@ -3,8 +3,8 @@
 
 | Writing                      | Development                 |
 |------------------------------|-----------------------------|
-|- Managing Technical Debt     |- Personal site redevelopment|
-|- Breaking Down Microservices |- Web contactware            |
+|- Managing Technical Debt     |- DevOps Circus              |
+|- Git Primer                  |- Paella auth                |
 
 ```py
 #shamelessly stolen from Adam Hopkins (@ahopkins)
