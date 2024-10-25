@@ -89,5 +89,10 @@
     "h": 800,
     "title": "platform-kubernetes-svgrepo-com",
     "aspect": "fixed"
+  },
+  {
+    "data": "https://codeberg.org/forgejo/governance/raw/branch/main/branding/logo/forgejo-monochrome.svg",
+    "w": 120,
+    "h": 120
   }
 ]</mxlibrary>
