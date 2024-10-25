@@ -94,5 +94,12 @@
     "data": "https://codeberg.org/forgejo/governance/raw/branch/main/branding/logo/forgejo-monochrome.svg",
     "w": 120,
     "h": 120
+  },
+  {
+    "data": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJGbGF0IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiBmaWxsPSIjMDAwMDAwIj4mI3hhOyAgPHBhdGggZD0iTTIxMiwyOEg0NEExNi4wMTgxNywxNi4wMTgxNywwLDAsMCwyOCw0NFYyMTJhMTYuMDE4MzMsMTYuMDE4MzMsMCwwLDAsMTYsMTZIMjEyYTE2LjAxODMzLDE2LjAxODMzLDAsMCwwLDE2LTE2VjQ0QTE2LjAxODE3LDE2LjAxODE3LDAsMCwwLDIxMiwyOFpNOTYsMTc2LjAwMWE4LDgsMCwxLDEtMTYsMHYtNjRhOCw4LDAsMCwxLDE2LDBaTTg4LDkyYTEyLDEyLDAsMSwxLDEyLTEyQTEyLDEyLDAsMCwxLDg4LDkyWm05Niw4NC4wMDFhOCw4LDAsMSwxLTE2LDB2LTM2YTIwLDIwLDAsMCwwLTQwLDB2MzZhOCw4LDAsMSwxLTE2LDB2LTY0YTcuOTk3MjksNy45OTcyOSwwLDAsMSwxNS43OTQ5Mi0xLjc3ODU3QTM1Ljk4MTI1LDM1Ljk4MTI1LDAsMCwxLDE4NCwxNDAuMDAxWiIvPiYjeGE7PC9zdmc+",
+    "w": 800,
+    "h": 800,
+    "title": "linkedin-logo-fill-svgrepo-com",
+    "aspect": "fixed"
   }
 ]</mxlibrary>
