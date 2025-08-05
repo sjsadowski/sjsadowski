@@ -3,8 +3,8 @@
 
 | Writing                      | Development                 |
 |------------------------------|-----------------------------|
-|- Managing Technical Debt     |- DevOps Circus              |
-|- Git Primer                  |- Paella auth                |
+|- Managing Technical Debt     |- clyx|events                |
+|- DevOps in an AI world       |- pWebServer                 |
 
 ```py
 #shamelessly stolen from Adam Hopkins (@ahopkins)
@@ -12,12 +12,13 @@ class Stephen(Person):
 
   def __init__(self):
     self.work = [
-      UturnData(role=["Head of Service Delivery", "DevOps & Modernization Practice Lead"]),
       MetaMeta(role=["Founder & CEO"]),
-      DigitalForHer(role=["Managing Partner, Technology"])]
+      ClyxLLC(role=["Founder & Chief Architect"]),
+      DigitalForHer(role=["Managing Partner, Technology"]),
+      PeerData(role=["Head of Technology Strategy & Integration"])]
     self.oss = Sanic(role=["Steering Council","Core Developer","Release Manager"])
     self.home = [UnitedStates("Chicago"), UnitedStates("Dallas")]
-    self.hobbies = ["Cooking","Coffee","Reading","Dining","Travel"]
+    self.hobbies = ["Cooking","Coffee","Reading","Dining","Cigars","Dogs"]
     self.education = ["MBA, IT Management"]
    
   async def run(self, inputs: Coffee) -> None:
